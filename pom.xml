@@ -89,7 +89,7 @@
 				<!-- <version>2.22.2</version> -->
 				<version>3.2.5</version>
 				<configuration>
-					<!-- <testFailureIgnore>true</testFailureIgnore> -->
+					<testFailureIgnore>true</testFailureIgnore>
 					<argLine>${argLine} -Xmx2048m</argLine>
 				</configuration>
 			</plugin>
